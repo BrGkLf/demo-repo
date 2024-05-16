@@ -14,3 +14,7 @@ Teste de subtexto 2 - new branch
 
 1. Como fazer novo branch
  - git checkout -b [nome do branch]
+
+
+# Como retirar erros 
+ - git reset desfaz git add .
